@@ -3,8 +3,8 @@ package com.rosekn.assessment
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.rosekn.assessment.UI.MainActivity
 import com.rosekn.assessment.databinding.ActivityLoginBinding
-import com.rosekn.assessment.databinding.ActivityMainBinding
 
 class Login : AppCompatActivity() {
     lateinit var binding: ActivityLoginBinding
